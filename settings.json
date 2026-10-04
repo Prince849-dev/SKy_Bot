@@ -7,9 +7,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
-    "version": "1.21.1"
+    "ip": "NPsurvivalggs.aternos.me:53874",
+    "port": 53874,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
